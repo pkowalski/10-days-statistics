@@ -1,2 +1,2 @@
 # 10-days-statistics
-!) days of statistics challenges from hackerrank
+10 days of statistics challenges from hackerrank
