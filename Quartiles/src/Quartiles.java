@@ -4,6 +4,10 @@ import java.text.DecimalFormat;
 
 /**
  * Calcuates quartiles of numbers entered
+ * TASK:
+ * Given an array, N, of  integers, 
+ * calculate the respective first quartile (Q1), second quartile (Q2), 
+ * and third quartile (Q3). It is guaranteed that Q1, Q2, and Q3 are integers.
  * INPUT:
  * The first line contains an integer, denoting the number of elements in the array. 
  * The second line contains  space-separated integers describing the array's elements.

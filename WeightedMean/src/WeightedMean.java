@@ -1,6 +1,18 @@
 import java.io.*;
 import java.util.*;
 
+/**
+ * Calculates the weighted mean of a series of numbers
+ * INPUT:
+ * The first line contains an integer, denoting the number of elements in the array
+ * The second line contains  space-separated integers describing the respective elements of array
+ * The third line contains  space-separated integers describing the respective elements of array
+ * OUTPUT:
+ * Prints the weighted mean on a new line
+ * @author Patrick Kowalski
+ *
+ */
+
 public class WeightedMean {
 
     public static void main(String[] args) {
